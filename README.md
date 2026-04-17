@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi 🫰
 
-<!--
-**catarinaxcoelho/catarinaxcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Catarina**, a **data analyst** with a background in **digital strategy, marketing, and content writing**.
 
-Here are some ideas to get you started:
+From wannabe journalist to aspiring book editor, here’s where I landed: at the intersection of **data and creativity** ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm working on
+
+- building my **data portfolio**
+- creating dashboards in **Power BI**
+- strengthening my skills in **Python**, **SQL**, and data storytelling
+
+## 📊 Tools & skills
+
+- **Power BI**
+- **Python**
+- **SQL**
+- **Excel**
+- **Data visualisation**
+- **Exploratory data analysis**
+- **Dashboard design**
+
+## 📁 Featured projects
+
+- 📚 **Blackwell’s Fiction Catalogue Dashboard**  
+  A Power BI dashboard exploring Blackwell’s fiction catalogue, format distribution, pricing structure, and inventory value.
+
+## 🎯 Interests
+
+- data visualisation
+- business-focused analysis
+- clean and intuitive dashboards
+- turning messy data into useful insights
+- continuous learning and building practical projects
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/catarinaxcoelho/)
+
+## ✨ Fun fact
+
+I’m at my best when diving into data to uncover trends, patterns, and insights that support smarter and more meaningful decisions.
