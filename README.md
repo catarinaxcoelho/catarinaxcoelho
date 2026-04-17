@@ -22,7 +22,7 @@ From wannabe journalist to aspiring book editor, here’s where I landed: at the
 
 ## 📁 Featured projects
 
-- 📚 **Blackwell’s Fiction Catalogue Dashboard**  
+- 📚 [Blackwell’s Fiction Catalogue Dashboard](https://github.com/catarinaxcoelho/blackwells-powerbi-dashboard)  
   A Power BI dashboard exploring Blackwell’s fiction catalogue, format distribution, pricing structure, and inventory value.
 
 ## 🧘‍♀️ Interests
