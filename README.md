@@ -25,7 +25,7 @@ From wannabe journalist to aspiring book editor, here’s where I landed: at the
 - 📚 **Blackwell’s Fiction Catalogue Dashboard**  
   A Power BI dashboard exploring Blackwell’s fiction catalogue, format distribution, pricing structure, and inventory value.
 
-## 🎯 Interests
+## 🧘‍♀️ Interests
 
 - data visualisation
 - business-focused analysis
@@ -33,10 +33,6 @@ From wannabe journalist to aspiring book editor, here’s where I landed: at the
 - turning messy data into useful insights
 - continuous learning and building practical projects
 
-## 📫 Connect with me
+## 🤳 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/catarinaxcoelho/)
-
-## ✨ Fun fact
-
-I’m at my best when diving into data to uncover trends, patterns, and insights that support smarter and more meaningful decisions.
