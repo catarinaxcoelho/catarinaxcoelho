@@ -26,7 +26,6 @@ From wannabe journalist to aspiring book editor, here’s where I landed: at the
   A Power BI dashboard exploring Blackwell’s fiction catalogue, format distribution, pricing structure, and inventory value.
 
 - 🗽 [NYC Airbnb Performance Overview](https://github.com/catarinaxcoelho/airbnb_powerbi_dashboard)
-
   A Power BI dashboard analysing the NYC Airbnb market through listing volume, pricing, availability, room types, and review activity.
 
 ## 🧘‍♀️ Interests
