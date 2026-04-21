@@ -1,6 +1,6 @@
 ## Hi 🫰
 
-I’m **Catarina**, a **data analyst** with a background in **digital strategy, marketing, and content writing**.
+I’m **Catarina**, a **data analyst** with a background in **digital strategy, marketing, and business performance**.
 
 From wannabe journalist to aspiring book editor, here’s where I landed: at the intersection of **data and creativity** ✨
 
